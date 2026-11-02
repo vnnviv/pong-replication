@@ -26,6 +26,7 @@ OI claims that living neurons can compute or learn, sometimes more efficiently t
 - `oi-review/search_protocol.md`: question, searches, include and exclude rules
 - `oi-review/rubric_scoring_anchors_v1.md`: what 0, 1 and 2 mean for each item
 - `oi-review/review_sources.md`: papers in the screening log, with links
-- `oi-review/rubric_v1_1_proposed.md`, `oi-review/rubric_critique_v1_1.md`: proposed rubric changes and a layer-by-layer critique against review standards
+- `oi-review/rubric_v1_1.md`: rubric v1 with the pilot changes built in (draft, not frozen)
+- `oi-review/rubric_v1_1_evaluation.md`, `oi-review/rubric_critique_v1_1.md`: which changes are worth keeping, and a layer-by-layer critique against review standards
 - `oi-review/pilot/`: first AI pilot run of the rubric on four papers (findings and per-item scores). Not human scores; used to find unclear anchors
 - `PONG_REPLICATION.md`, `DEVIATIONS.md`, `pong_env.py`, `dqn.py`, `analyze.py`: the Pong replication

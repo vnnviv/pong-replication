@@ -10,7 +10,7 @@ Rating: **Keep** (meets the bar), **Change** (fix before scoring), **Defer** (do
 | 2 | Search | PubMed, bioRxiv, medRxiv, arXiv plus manual grey literature | At least two or three databases, a search string reported, citation chaining, grey literature stated | Change. Add Google Scholar or Scopus and do citation chaining from the seed papers |
 | 3 | Selection | One screener, title and abstract | Two independent screeners, at least on a sample, with agreement reported | Change. Second screener on a random 20% now. Full-text check on every Include and Maybe |
 | 4 | Selection by claim, not quality | Papers are included if they make an in-scope claim | Fine for a methods review. Risk: the corpus is also shaped by what gets published and indexed | Keep. State the publication bias limit |
-| 5 | What the items measure | Mix of reporting quality (TR, CC) and design validity (SM, UA, CT, RB, CF, EA) | Standards separate reporting quality from risk of bias. Mixing them in one score makes it unclear what a low score means | Change. Group into domains and report each, which v1.1 does |
+| 5 | What the items measure | Mix of reporting quality (TR, CC) and design validity (SM, UA, CT, RB, CF, EA) | Standards separate reporting quality from risk of bias. Mixing them in one score makes it unclear what a low score means | Change. Group into domains and report each, which v1.1 does (see rubric_v1_1.md) |
 | 6 | Item definitions | Anchors for 0, 1, 2 | Risk-of-bias tools use signaling questions and domain judgments, not single-line anchors | Change. Add worked examples (v1.1) and test them on new papers |
 | 7 | Scale and N/A | 0/1/2 or NA | Three levels is coarse but matches common practice. N/A needs a stated rule | Change. One N/A rule, counted per rater |
 | 8 | Raters and reliability | Two raters, kappa in the sheet | Two independent raters, consensus process, agreement reported. Kappa with a few papers is unstable | Change. Use weighted kappa and report disagreements, not only kappa |
@@ -29,7 +29,7 @@ Rating: **Keep** (meets the bar), **Change** (fix before scoring), **Defer** (do
 The team has one semester and three students. The design has to be defensible, not perfect.
 
 Do before scoring the rest:
-- blind human pilot on the same four papers, then fix the anchors (v1.1 draft is ready)
+- blind human pilot on the same four papers, then fix the anchors (rubric_v1_1.md is the draft)
 - second screener on 20%
 - Google Scholar or Scopus plus citation chaining
 - pre-register the protocol, rubric and cut-offs on OSF
