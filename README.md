@@ -17,6 +17,7 @@ OI claims that living neurons can compute or learn, sometimes more efficiently t
 - Screening was title and abstract only, by one screener. A second screener still needs to check a random 20% and the full text of every Include and Maybe.
 - The workbook has almost no scores yet. Nothing here is a finding.
 - Citation chaining from the seed papers is not done.
+- An AI pilot on four papers found eight unclear anchors (replication, robustness, unit of analysis and others). Humans still need to score the same papers blind before the rubric is frozen.
 - The tier cut-offs and the "determining factor" are still open. Tiers use the same scores as the factor, so I will re-tier with each item left out and call the result exploratory.
 
 ## Files
@@ -25,4 +26,5 @@ OI claims that living neurons can compute or learn, sometimes more efficiently t
 - `oi-review/search_protocol.md`: question, searches, include and exclude rules
 - `oi-review/rubric_scoring_anchors_v1.md`: what 0, 1 and 2 mean for each item
 - `oi-review/review_sources.md`: papers in the screening log, with links
+- `oi-review/pilot/`: first AI pilot run of the rubric on four papers (findings and per-item scores). Not human scores; used to find unclear anchors
 - `PONG_REPLICATION.md`, `DEVIATIONS.md`, `pong_env.py`, `dqn.py`, `analyze.py`: the Pong replication
