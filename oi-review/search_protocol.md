@@ -38,3 +38,13 @@ Papers are selected for making a claim, not for quality, so weak papers are not 
 - Index search is not exhaustive, so grey literature is added by hand.
 - The seed papers were picked by the team, not systematically.
 - One screener so far. A second person should screen a random 20%.
+
+## Update, Nov 1: scoring plan (not yet frozen)
+
+- Core set: about 20 papers from the Include list, picked by a written rule (seed papers, most-cited empirical papers, all company claims). The rest are listed but not scored, and the paper says so.
+- Pilot: four papers scored blind by two people before the rubric is frozen. Anchors change only between rounds, with the date logged.
+- Scoring: rubric v1.1. One rater per paper, a second rater on about half. Raw scores are saved before consensus.
+- Second screener on a random 20% of the screening log, plus full-text checks of every Include and Maybe.
+- Add Google Scholar or Scopus and citation chaining from the seed papers.
+- Pre-register protocol, rubric and cut-offs on OSF before scoring the core set.
+- The AI pilot is a diagnostic. It does not enter the data.

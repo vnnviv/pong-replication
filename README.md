@@ -13,12 +13,26 @@ OI claims that living neurons can compute or learn, sometimes more efficiently t
 
 ## Where it stands
 
-- Rubric v1 and the workbook are built. The protocol, screening log and source list are done for the first search pass.
-- Screening was title and abstract only, by one screener. A second screener still needs to check a random 20% and the full text of every Include and Maybe.
-- The workbook has almost no scores yet. Nothing here is a finding.
-- Citation chaining from the seed papers is not done.
-- An AI pilot on four papers found eight unclear anchors (replication, robustness, unit of analysis and others). Humans still need to score the same papers blind before the rubric is frozen.
-- The tier cut-offs and the "determining factor" are still open. Tiers use the same scores as the factor, so I will re-tier with each item left out and call the result exploratory.
+Done:
+- Rubric v1, the scoring workbook, the search protocol, the screening log and the source list.
+- An AI pilot on four papers. It found eight unclear anchors and no sign that the rubric changes cause deflation. It is a diagnostic, not data.
+- Rubric v1.1 (draft) and an evaluation of it.
+
+Not done:
+- Human scoring. Nobody has scored a paper blind yet, so agreement is unknown.
+- A second screener on a random 20%, and full-text checks of every Include and Maybe.
+- Citation chaining from the seed papers, and a second database (Google Scholar or Scopus).
+- OSF pre-registration.
+
+## Plan
+
+1. Blind human pilot: the same four papers, scored separately, then a short consensus meeting.
+2. Fix the anchors where raters differ by two points or more, then freeze the rubric and cut-offs.
+3. Pre-register on OSF.
+4. Score a core set of about 20 papers chosen by a written rule. One rater scores each paper, and a second rater double-scores about half.
+5. Report item profiles and domain scores. Tiers are descriptive and compared by rank thirds. The "determining factor" is exploratory.
+
+Open decisions: core set size, how much to double-score, and the pilot pass rule. See [the evaluation](oi-review/rubric_v1_1_evaluation.md).
 
 ## Files
 
